@@ -19,3 +19,4 @@ References
 Can, K. (2017, 09 06). UCI Machine Learning. Retrieved from Kaggle: https://www.kaggle.com/uciml/biomechanical-features-of-orthopedic-patients
 Lebied, M. (2017, 05 24). 9 Examples of Big Data Analytics in Healthcare That Can Save People. Retrieved from datapine: https://www.datapine.com/blog/big-data-examples-in-healthcare/
 
+User can see the model by running .str file in IBM SPSS Modeler.
